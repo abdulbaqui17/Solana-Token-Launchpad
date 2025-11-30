@@ -39,7 +39,7 @@ A modern, feature-rich web application for creating SPL tokens on the Solana blo
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/solana-token-launchpad.git
+git clone https://github.com/abdulbaqui17/solana-token-launchpad.git
 
 # Navigate to project directory
 cd solana-token-launchpad
